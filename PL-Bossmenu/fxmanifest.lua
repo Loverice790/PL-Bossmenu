@@ -4,7 +4,7 @@ game "gta5"
 
 lua54 "yes"
 
-author "pipsa_dev"
+author "Loverice"
 
 description "Simppeli boss menu"
 
